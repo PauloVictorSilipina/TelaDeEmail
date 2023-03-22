@@ -3,5 +3,5 @@
     <string name="etEmail">Email</string>
     <string name="etAssunto">Assunto</string>
     <string name="etTexto">Texto</string>
-    <string name="etButton">Enviar</string>
+    <string name="btnButton">Enviar</string>
 </resources>
